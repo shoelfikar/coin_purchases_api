@@ -1,0 +1,4 @@
+node_modules/
+coin_purchases.zip
+coin.sql
+.env
